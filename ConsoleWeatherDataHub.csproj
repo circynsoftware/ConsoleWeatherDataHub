@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DataFiles\weatherDataHubAPIDetails.json" />
+    <None Remove="DataFiles\weatherLocations.json" />
+    <None Remove="DataFiles\weatherRegionsDataHub.json" />
+    <None Remove="DataFiles\weatherTypeCodes.json" />
+    <None Remove="DataFiles\weatherUVIndex.json" />
+    <None Remove="DataFiles\weatherVisibility.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="DataFiles\weatherDataHubAPIDetails.json" />
+    <EmbeddedResource Include="DataFiles\weatherLocations.json" />
+    <EmbeddedResource Include="DataFiles\weatherRegionsDataHub.json" />
+    <EmbeddedResource Include="DataFiles\weatherTypeCodes.json" />
+    <EmbeddedResource Include="DataFiles\weatherUVIndex.json" />
+    <EmbeddedResource Include="DataFiles\weatherVisibility.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>

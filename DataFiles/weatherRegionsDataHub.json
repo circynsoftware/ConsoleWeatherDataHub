@@ -1,0 +1,464 @@
+{
+    "Regions": [
+        {
+            "regionCode": "bed",
+            "regionCountry": "England",
+            "regionName": "Bedfordshire"
+        },
+        {
+            "regionCode": "bek",
+            "regionCountry": "England",
+            "regionName": "Berkshire"
+        },
+        {
+            "regionCode": "bri",
+            "regionCountry": "England",
+            "regionName": "Bristol"
+        },
+        {
+            "regionCode": "bck",
+            "regionCountry": "England",
+            "regionName": "Buckinghamshire"
+        },
+        {
+            "regionCode": "cam",
+            "regionCountry": "England",
+            "regionName": "Cambridgeshire"
+        },
+        {
+            "regionCode": "che",
+            "regionCountry": "England",
+            "regionName": "Cheshire"
+        },
+        {
+            "regionCode": "lon",
+            "regionCountry": "England",
+            "regionName": "City and County of the City of L"
+        },
+        {
+            "regionCode": "ker",
+            "regionCountry": "England",
+            "regionName": "Cornwall"
+        },
+        {
+            "regionCode": "cum",
+            "regionCountry": "England",
+            "regionName": "Cumbria"
+        },
+        {
+            "regionCode": "der",
+            "regionCountry": "England",
+            "regionName": "Derbyshire"
+        },
+        {
+            "regionCode": "dev",
+            "regionCountry": "England",
+            "regionName": "Devon"
+        },
+        {
+            "regionCode": "dor",
+            "regionCountry": "England",
+            "regionName": "Dorset"
+        },
+        {
+            "regionCode": "dur",
+            "regionCountry": "England",
+            "regionName": "Durham"
+        },
+        {
+            "regionCode": "ery",
+            "regionCountry": "England",
+            "regionName": "East Riding of Yorkshire"
+        },
+        {
+            "regionCode": "esx",
+            "regionCountry": "England",
+            "regionName": "East Sussex"
+        },
+        {
+            "regionCode": "ess",
+            "regionCountry": "England",
+            "regionName": "Essex"
+        },
+        {
+            "regionCode": "glo",
+            "regionCountry": "England",
+            "regionName": "Gloucestershire"
+        },
+        {
+            "regionCode": "grl",
+            "regionCountry": "England",
+            "regionName": "Greater London"
+        },
+        {
+            "regionCode": "gmn",
+            "regionCountry": "England",
+            "regionName": "Greater Manchester"
+        },
+        {
+            "regionCode": "ham",
+            "regionCountry": "England",
+            "regionName": "Hampshire"
+        },
+        {
+            "regionCode": "hrf",
+            "regionCountry": "England",
+            "regionName": "Herefordshire"
+        },
+        {
+            "regionCode": "hrt",
+            "regionCountry": "England",
+            "regionName": "Hertfordshire"
+        },
+        {
+            "regionCode": "iow",
+            "regionCountry": "England",
+            "regionName": "Isle of Wight"
+        },
+        {
+            "regionCode": "knt",
+            "regionCountry": "England",
+            "regionName": "Kent"
+        },
+        {
+            "regionCode": "lan",
+            "regionCountry": "England",
+            "regionName": "Lancashire"
+        },
+        {
+            "regionCode": "lei",
+            "regionCountry": "England",
+            "regionName": "Leicestershire"
+        },
+        {
+            "regionCode": "lin",
+            "regionCountry": "England",
+            "regionName": "Lincolnshire"
+        },
+        {
+            "regionCode": "mer",
+            "regionCountry": "England",
+            "regionName": "Merseyside"
+        },
+        {
+            "regionCode": "nor",
+            "regionCountry": "England",
+            "regionName": "Norfolk"
+        },
+        {
+            "regionCode": "nyk",
+            "regionCountry": "England",
+            "regionName": "North Yorkshire"
+        },
+        {
+            "regionCode": "nrh",
+            "regionCountry": "England",
+            "regionName": "Northamptonshire"
+        },
+        {
+            "regionCode": "nul",
+            "regionCountry": "England",
+            "regionName": "Northumberland"
+        },
+        {
+            "regionCode": "not",
+            "regionCountry": "England",
+            "regionName": "Nottinghamshire"
+        },
+        {
+            "regionCode": "oxf",
+            "regionCountry": "England",
+            "regionName": "Oxfordshire"
+        },
+        {
+            "regionCode": "rut",
+            "regionCountry": "England",
+            "regionName": "Rutland"
+        },
+        {
+            "regionCode": "shr",
+            "regionCountry": "England",
+            "regionName": "Shropshire"
+        },
+        {
+            "regionCode": "som",
+            "regionCountry": "England",
+            "regionName": "Somerset"
+        },
+        {
+            "regionCode": "syk",
+            "regionCountry": "England",
+            "regionName": "South Yorkshire"
+        },
+        {
+            "regionCode": "stf",
+            "regionCountry": "England",
+            "regionName": "Staffordshire"
+        },
+        {
+            "regionCode": "suf",
+            "regionCountry": "England",
+            "regionName": "Suffolk"
+        },
+        {
+            "regionCode": "sur",
+            "regionCountry": "England",
+            "regionName": "Surrey"
+        },
+        {
+            "regionCode": "taw",
+            "regionCountry": "England",
+            "regionName": "Tyne & Wear"
+        },
+        {
+            "regionCode": "war",
+            "regionCountry": "England",
+            "regionName": "Warwickshire"
+        },
+        {
+            "regionCode": "wmd",
+            "regionCountry": "England",
+            "regionName": "West Midlands"
+        },
+        {
+            "regionCode": "wsx",
+            "regionCountry": "England",
+            "regionName": "West Sussex"
+        },
+        {
+            "regionCode": "wyk",
+            "regionCountry": "England",
+            "regionName": "West Yorkshire"
+        },
+        {
+            "regionCode": "wil",
+            "regionCountry": "England",
+            "regionName": "Wiltshire"
+        },
+        {
+            "regionCode": "wor",
+            "regionCountry": "England",
+            "regionName": "Worcestershire"
+        },
+        {
+            "regionCode": "nir",
+            "regionCountry": "Northern Ireland",
+            "regionName": "Northern Ireland"
+        },
+        {
+            "regionCode": "abd",
+            "regionCountry": "Scotland",
+            "regionName": "Aberdeenshire"
+        },
+        {
+            "regionCode": "ang",
+            "regionCountry": "Scotland",
+            "regionName": "Angus"
+        },
+        {
+            "regionCode": "aab",
+            "regionCountry": "Scotland",
+            "regionName": "Argyll and Bute"
+        },
+        {
+            "regionCode": "aaa",
+            "regionCountry": "Scotland",
+            "regionName": "Ayrshire and Arran"
+        },
+        {
+            "regionCode": "bnf",
+            "regionCountry": "Scotland",
+            "regionName": "Banffshire"
+        },
+        {
+            "regionCode": "ber",
+            "regionCountry": "Scotland",
+            "regionName": "Berwickshire"
+        },
+        {
+            "regionCode": "cai",
+            "regionCountry": "Scotland",
+            "regionName": "Caithness"
+        },
+        {
+            "regionCode": "coa",
+            "regionCountry": "Scotland",
+            "regionName": "City of Aberdeen"
+        },
+        {
+            "regionCode": "cod",
+            "regionCountry": "Scotland",
+            "regionName": "City of Dundee"
+        },
+        {
+            "regionCode": "coe",
+            "regionCountry": "Scotland",
+            "regionName": "City of Edinburgh"
+        },
+        {
+            "regionCode": "cog",
+            "regionCountry": "Scotland",
+            "regionName": "City of Glasgow"
+        },
+        {
+            "regionCode": "cla",
+            "regionCountry": "Scotland",
+            "regionName": "Clackmannan"
+        },
+        {
+            "regionCode": "dum",
+            "regionCountry": "Scotland",
+            "regionName": "Dumfries"
+        },
+        {
+            "regionCode": "dun",
+            "regionCountry": "Scotland",
+            "regionName": "Dunbartonshire"
+        },
+        {
+            "regionCode": "elo",
+            "regionCountry": "Scotland",
+            "regionName": "East Lothian"
+        },
+        {
+            "regionCode": "fif",
+            "regionCountry": "Scotland",
+            "regionName": "Fife"
+        },
+        {
+            "regionCode": "inv",
+            "regionCountry": "Scotland",
+            "regionName": "Inverness"
+        },
+        {
+            "regionCode": "kca",
+            "regionCountry": "Scotland",
+            "regionName": "Kincardineshire"
+        },
+        {
+            "regionCode": "lks",
+            "regionCountry": "Scotland",
+            "regionName": "Lanarkshire"
+        },
+        {
+            "regionCode": "mlo",
+            "regionCountry": "Scotland",
+            "regionName": "Midlothian"
+        },
+        {
+            "regionCode": "mry",
+            "regionCountry": "Scotland",
+            "regionName": "Moray"
+        },
+        {
+            "regionCode": "nrn",
+            "regionCountry": "Scotland",
+            "regionName": "Nairn"
+        },
+        {
+            "regionCode": "ork",
+            "regionCountry": "Scotland",
+            "regionName": "Orkney"
+        },
+        {
+            "regionCode": "pek",
+            "regionCountry": "Scotland",
+            "regionName": "Perth and Kinross"
+        },
+        {
+            "regionCode": "rnf",
+            "regionCountry": "Scotland",
+            "regionName": "Renfrewshire"
+        },
+        {
+            "regionCode": "rcr",
+            "regionCountry": "Scotland",
+            "regionName": "Ross and Cromarty"
+        },
+        {
+            "regionCode": "rel",
+            "regionCountry": "Scotland",
+            "regionName": "Roxburgh, Ettrick and Lauderdale"
+        },
+        {
+            "regionCode": "sht",
+            "regionCountry": "Scotland",
+            "regionName": "Shetland"
+        },
+        {
+            "regionCode": "sfa",
+            "regionCountry": "Scotland",
+            "regionName": "Stirling and Falkirk"
+        },
+        {
+            "regionCode": "stl",
+            "regionCountry": "Scotland",
+            "regionName": "Sutherland"
+        },
+        {
+            "regionCode": "sok",
+            "regionCountry": "Scotland",
+            "regionName": "The Stewartry of Kirkcudbright"
+        },
+        {
+            "regionCode": "twd",
+            "regionCountry": "Scotland",
+            "regionName": "Tweeddale"
+        },
+        {
+            "regionCode": "wlo",
+            "regionCountry": "Scotland",
+            "regionName": "West Lothian"
+        },
+        {
+            "regionCode": "wis",
+            "regionCountry": "Scotland",
+            "regionName": "Western Isles"
+        },
+        {
+            "regionCode": "wgt",
+            "regionCountry": "Scotland",
+            "regionName": "Wigtown"
+        },
+        {
+            "regionCode": "clw",
+            "regionCountry": "Wales",
+            "regionName": "Clwyd"
+        },
+        {
+            "regionCode": "dyf",
+            "regionCountry": "Wales",
+            "regionName": "Dyfed"
+        },
+        {
+            "regionCode": "gwe",
+            "regionCountry": "Wales",
+            "regionName": "Gwent"
+        },
+        {
+            "regionCode": "gwy",
+            "regionCountry": "Wales",
+            "regionName": "Gwynedd"
+        },
+        {
+            "regionCode": "mgl",
+            "regionCountry": "Wales",
+            "regionName": "Mid Glamorgan"
+        },
+        {
+            "regionCode": "pow",
+            "regionCountry": "Wales",
+            "regionName": "Powys"
+        },
+        {
+            "regionCode": "sgl",
+            "regionCountry": "Wales",
+            "regionName": "South Glamorgan"
+        },
+        {
+            "regionCode": "wgl",
+            "regionCountry": "Wales",
+            "regionName": "West Glamorgan"
+        }
+    ]
+}

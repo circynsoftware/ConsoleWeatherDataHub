@@ -1,0 +1,32 @@
+{
+  "Visibility": [
+    {
+      "Value": "UN",
+      "Description": "Unknown"
+    },
+    {
+      "Value": "VP",
+      "Description": "Very poor - Less than 1 km"
+    },
+    {
+      "Value": "PO",
+      "Description": "Poor - Between 1-4 km"
+    },
+    {
+      "Value": "MO",
+      "Description": "Moderate - Between 4-10 km"
+    },
+    {
+      "Value": "GO",
+      "Description": "Good - Between 10-20 km"
+    },
+    {
+      "Value": "VG",
+      "Description": "Very good - Between 20-40 km"
+    },
+    {
+      "Value": "EX",
+      "Description": "Excellent - More than 40 km"
+    }
+  ]
+}

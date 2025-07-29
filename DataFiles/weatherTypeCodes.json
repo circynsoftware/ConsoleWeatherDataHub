@@ -1,0 +1,136 @@
+{
+    "WeatherTypes": [
+        {
+            "Description": "Not available",
+            "Value": "NA"
+        },
+        {
+            "Description": "Trace rain",
+            "Value": -1
+        },
+        {
+            "Description": "Clear night",
+            "Value": 0
+        },
+        {
+            "Description": "Sunny day",
+            "Value": 1
+        },
+        {
+            "Description": "Partly cloudy (night)",
+            "Value": 2
+        },
+        {
+            "Description": "Partly cloudy (day)",
+            "Value": 3
+        },
+        {
+            "Description": "Not used",
+            "Value": 4
+        },
+        {
+            "Description": "Mist",
+            "Value": 5
+        },
+        {
+            "Description": "Fog",
+            "Value": 6
+        },
+        {
+            "Description": "Cloudy",
+            "Value": 7
+        },
+        {
+            "Description": "Overcast",
+            "Value": 8
+        },
+        {
+            "Description": "Light rain shower (night)",
+            "Value": 9
+        },
+        {
+            "Description": "Light rain shower (day)",
+            "Value": 10
+        },
+        {
+            "Description": "Drizzle",
+            "Value": 11
+        },
+        {
+            "Description": "Light rain",
+            "Value": 12
+        },
+        {
+            "Description": "Heavy rain shower (night)",
+            "Value": 13
+        },
+        {
+            "Description": "Heavy rain shower (day)",
+            "Value": 14
+        },
+        {
+            "Description": "Heavy rain",
+            "Value": 15
+        },
+        {
+            "Description": "Sleet shower (night)",
+            "Value": 16
+        },
+        {
+            "Description": "Sleet shower (day)",
+            "Value": 17
+        },
+        {
+            "Description": "Sleet",
+            "Value": 18
+        },
+        {
+            "Description": "Hail shower (night)",
+            "Value": 19
+        },
+        {
+            "Description": "Hail shower (day)",
+            "Value": 20
+        },
+        {
+            "Description": "Hail",
+            "Value": 21
+        },
+        {
+            "Description": "Light snow shower (night)",
+            "Value": 22
+        },
+        {
+            "Description": "Light snow shower (day)",
+            "Value": 23
+        },
+        {
+            "Description": "Light snow",
+            "Value": 24
+        },
+        {
+            "Description": "Heavy snow shower (night)",
+            "Value": 25
+        },
+        {
+            "Description": "Heavy snow shower (day)",
+            "Value": 26
+        },
+        {
+            "Description": "Heavy snow",
+            "Value": 27
+        },
+        {
+            "Description": "Thunder shower (night)",
+            "Value": 28
+        },
+        {
+            "Description": "Thunder shower (day)",
+            "Value": 29
+        },
+        {
+            "Description": "Thunder",
+            "Value": 30
+        }
+    ]
+}

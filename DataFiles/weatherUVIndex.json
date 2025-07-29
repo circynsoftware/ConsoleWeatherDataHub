@@ -1,0 +1,48 @@
+{
+  "UVIndex": [
+    {
+      "Value": 1,
+      "Description": "Low exposure. No protection required. You can safely stay outside"
+    },
+    {
+      "Value": 2,
+      "Description": "Low exposure. No protection required. You can safely stay outside"
+    },
+    {
+      "Value": 3,
+      "Description": "Moderate exposure. Seek shade during midday hours, cover up and wear sunscreen"
+    },
+    {
+      "Value": 4,
+      "Description": "Moderate exposure. Seek shade during midday hours, cover up and wear sunscreen"
+    },
+    {
+      "Value": 5,
+      "Description": "Moderate exposure. Seek shade during midday hours, cover up and wear sunscreen"
+    },
+    {
+      "Value": 6,
+      "Description": "High exposure. Seek shade during midday hours, cover up and wear sunscreen"
+    },
+    {
+      "Value": 7,
+      "Description": "High exposure. Seek shade during midday hours, cover up and wear sunscreen"
+    },
+    {
+      "Value": 8,
+      "Description": "Very high. Avoid being outside during midday hours. Shirt, sunscreen and hat are essential"
+    },
+    {
+      "Value": 9,
+      "Description": "Very high. Avoid being outside during midday hours. Shirt, sunscreen and hat are essential"
+    },
+    {
+      "Value": 10,
+      "Description": "Very high. Avoid being outside during midday hours. Shirt, sunscreen and hat are essential"
+    },
+    {
+      "Value": 11,
+      "Description": "Extreme. Avoid being outside during midday hours. Shirt, sunscreen and hat essential."
+    }
+  ]
+}
